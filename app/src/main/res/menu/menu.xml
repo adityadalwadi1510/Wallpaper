@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/get_wallpaper_from_gallery_menu_attach"
+        android:icon="@drawable/ic_baseline_attach_file_24"
+        android:title="Attach file"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/set_wallpaper_from_gallery_menu_attach"
+        android:icon="@drawable/ic_baseline_send_24"
+        android:title="Attach file"
+        app:showAsAction="always" />
+</menu>
